@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Skills
-subtitle:
+title: Services
+subtitle: 'What can we do for you?'
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
