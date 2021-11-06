@@ -6,7 +6,7 @@ bio: I enjoy environmental data science and ecoinformatics, and in my spare time
 display_education: false
 email: ""
 interests:
-- Data by design 
+- Data by Design 
 - Nature Photography
 - Digital Art
 name: Dashing Gecko
