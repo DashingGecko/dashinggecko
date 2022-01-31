@@ -31,7 +31,7 @@ feature:
 - description: 
   icon: user-secret
   icon_pack: fas
-  name: Coaching
+  name: Consulting
 - description: 
   icon: camera-retro
   icon_pack: fas
