@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 50
 
 title: Services
 subtitle: 'What can we do for you?'
@@ -19,25 +19,25 @@ feature:
 - description:
   icon: r-project
   icon_pack: fab
-  name: R
+  name: R Consulting
 - description: 
-  icon: chart-line
+  icon: chart-bar
   icon_pack: fas
-  name: Analysis
+  name: Data Viz
 - description: 
-  icon: searchengin
-  icon_pack: fab
-  name: Research
-- description: 
-  icon: user-secret
+  icon: table
   icon_pack: fas
-  name: Consulting
+  name: Data Analysis
+- description:
+  icon: book-open
+  icon_pack: fas
+  name: Reporting
 - description: 
   icon: camera-retro
   icon_pack: fas
   name: Photography
 - description: 
-  icon: paint-brush
+  icon: palette
   icon_pack: fas
   name: Digital Art
 
