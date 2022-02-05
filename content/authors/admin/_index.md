@@ -6,9 +6,6 @@ bio: I enjoy environmental data science and ecoinformatics, and in my spare time
 display_education: false
 email: ""
 interests:
-- Data by Design 
-- Nature Photography
-- Digital Art
 name: Dashing Gecko
 organizations:
 - name: with an ecology twist.
@@ -32,7 +29,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
+<h1 style="color:green"> Data by design </h1>
+</br>
+At Dashing Gecko we are here to help you with your <span style="color:green">data cleaning</span>, <span style="color:green">visualization</span>, and <span style="color:green">analysis</span> needs. Our expertise in using R for modelling and analysis of ecological and environmental data can be brought to bear to help solve your data problems. Whether you need to get your data organized and stored properly or gain new insights into your operations, we can help! We can build dashboards and shiny apps to showcase model results and key features of your data using stunning visualizations.  
 
-At Dashing Gecko we are here to help you with your data cleaning, visualization, and analysis needs. 
-
-While you are here you may also enjoy our various products showcasing stunning nature photos and digital drawings. 
+Because we enjoy programming, science, and art, we also offer our natural sciences themed digital art and photography printed on demand through Amazon and Redbubble. 
