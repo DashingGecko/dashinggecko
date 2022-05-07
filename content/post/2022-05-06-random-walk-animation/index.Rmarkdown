@@ -1,7 +1,20 @@
 ---
-title: "Making zooplankton swim with random walks in R"
-output: html_document
-date: '2022-05-22'
+title: Making zooplankton swim with random walks
+author: ''
+date: '2022-05-06'
+slug: []
+categories: [R, simulation]
+tags: []
+subtitle: ''
+summary: 'Random movements, images, and animation'
+authors: []
+lastmod: ''
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
 ---
 
 ```{r setup, include=FALSE}
