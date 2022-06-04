@@ -7,5 +7,5 @@ image:
 summary: Several paperback lined and grid journals available on Amazon.
 tags:
 - notebooks
-title: Amazon Notebooks
+title: Notebooks
 ---
